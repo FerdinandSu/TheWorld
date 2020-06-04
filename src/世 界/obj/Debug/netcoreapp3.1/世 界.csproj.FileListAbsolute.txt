@@ -1,0 +1,13 @@
+D:\OneDrive - plasticmetal\Projects\世 界\世 界\世 界\bin\Debug\netcoreapp3.1\世 界.exe
+D:\OneDrive - plasticmetal\Projects\世 界\世 界\世 界\bin\Debug\netcoreapp3.1\世 界.deps.json
+D:\OneDrive - plasticmetal\Projects\世 界\世 界\世 界\bin\Debug\netcoreapp3.1\世 界.runtimeconfig.json
+D:\OneDrive - plasticmetal\Projects\世 界\世 界\世 界\bin\Debug\netcoreapp3.1\世 界.runtimeconfig.dev.json
+D:\OneDrive - plasticmetal\Projects\世 界\世 界\世 界\bin\Debug\netcoreapp3.1\世 界.dll
+D:\OneDrive - plasticmetal\Projects\世 界\世 界\世 界\bin\Debug\netcoreapp3.1\世 界.pdb
+D:\OneDrive - plasticmetal\Projects\世 界\世 界\世 界\obj\Debug\netcoreapp3.1\世 界.csprojAssemblyReference.cache
+D:\OneDrive - plasticmetal\Projects\世 界\世 界\世 界\obj\Debug\netcoreapp3.1\世 界.AssemblyInfoInputs.cache
+D:\OneDrive - plasticmetal\Projects\世 界\世 界\世 界\obj\Debug\netcoreapp3.1\世 界.AssemblyInfo.cs
+D:\OneDrive - plasticmetal\Projects\世 界\世 界\世 界\obj\Debug\netcoreapp3.1\世 界.csproj.CoreCompileInputs.cache
+D:\OneDrive - plasticmetal\Projects\世 界\世 界\世 界\obj\Debug\netcoreapp3.1\世 界.dll
+D:\OneDrive - plasticmetal\Projects\世 界\世 界\世 界\obj\Debug\netcoreapp3.1\世 界.pdb
+D:\OneDrive - plasticmetal\Projects\世 界\世 界\世 界\obj\Debug\netcoreapp3.1\世 界.genruntimeconfig.cache
